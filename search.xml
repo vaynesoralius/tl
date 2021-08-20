@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>TL Post - Chapter 1</title>
+    <url>/tl/TL_Post_1/</url>
+    <content><![CDATA[<span id="more"></span>
+
+<hr>
+<link href="https://watatomo.github.io/tl/css/enst.css" rel="stylesheet">
+
+<div class="note info"><p>testing 1 2 3</p>
+</div>
+
+
+<p>triyng to add a note here<a href="#tl1"><sup id="1">[1]</sup></a></p>
+<div class="wataru">
+    <div class="icon"></div>
+    <span class="name">Wataru</span><div class="arrow"></div>
+    <div class="bubble">
+        Oh? There's truly no need for you to look so despondent.<p>
+        Everything you wear will suit you, and as such you'll be able to play any role you'd like. Just like your name, you are a canvas of pure white. You can be painted in any color; you can become anything your heart desires.<p>
+        Perhaps I can only view this so positively because it is precisely what I am lacking, but...
+    </div>
+    <div class="bubble">
+        Your "problem" is actually a skill that those with strong personalities cannot obtain no matter how desperately they may wish to.
+    </div>
+</div>
+dsfsjfojdsoifjsufhsiufhiusf
+<p>
+dsfsjfojdsoifjsufhsiufhiusf
+<p>
+dsfsjfojdsoifjsufhsiufhiusf
+<p>
+dsfsjfojdsoifjsufhsiufhiusf
+<p>
+dsfsjfojdsoifjsufhsiufhiusf
+<p>
+dsfsjfojdsoifjsufhsiufhiusf
+<p>
+dsfsjfojdsoifjsufhsiufhiusf
+<p>
+dsfsjfojdsoifjsufhsiufhiusf
+<p>
+
+<h2 id="testing-a-Tl-Note"><a href="#testing-a-Tl-Note" class="headerlink" title="testing a Tl Note"></a>testing a Tl Note</h2><ol>
+<li id="tl1">tl note <a href="#1">↑</a></li>
+<li>tl note</li>
+</ol>
+
+<h3 id="and-wha’t-sthis-OwO"><a href="#and-wha’t-sthis-OwO" class="headerlink" title="and wha’t sthis? OwO"></a>and wha’t sthis? OwO</h3><p>hmmmm</p>
+<h4 id="woah-you-can-go-deeper"><a href="#woah-you-can-go-deeper" class="headerlink" title="woah you can go deeper??"></a>woah you can go deeper??</h4><p>i wonder where it leeds</p>
+<blockquote>
+<p>interseting</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Chiaki</category>
+        <category>Midori</category>
+      </categories>
+      <tags>
+        <tag>enstars</tag>
+        <tag>Idol Story</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/tl/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
