@@ -1132,15 +1132,6 @@ pre code {
   margin-top: 0;
   padding-top: 0;
 }
-.headband {
-  background: #222;
-  height: 3px;
-}
-@media (max-width: 991px) {
-  .headband {
-    display: none;
-  }
-}
 .header {
   background: transparent;
 }
