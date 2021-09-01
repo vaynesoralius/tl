@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>With the five of us together...!</title>
+    <link>https://310mc.github.io/tl/</link>
+    
+    <image>
+      <url>https://310mc.github.io/tl/icon.png</url>
+      <title>With the five of us together...!</title>
+      <link>https://310mc.github.io/tl/</link>
+    </image>
+    
+    <atom:link href="https://310mc.github.io/tl/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>310mc Fan Translations</description>
+    <pubDate>Tue, 25 Aug 2020 06:00:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Do The Norm</title>
+      <link>https://310mc.github.io/tl/do_the_norm/</link>
+      <guid>https://310mc.github.io/tl/do_the_norm/</guid>
+      <pubDate>Tue, 25 Aug 2020 06:00:00 GMT</pubDate>
+      
+      <description>An Aira Feature Scout story, featuring Midori and Chiaki. Aira goes to school for once and has an incredible discovery.</description>
+      
+      
+      
+      
+      <category domain="https://310mc.github.io/tl/categories/Enstars/">Enstars</category>
+      
+      <category domain="https://310mc.github.io/tl/categories/Enstars/Midori/">Midori</category>
+      
+      <category domain="https://310mc.github.io/tl/categories/Enstars/Chiaki/">Chiaki</category>
+      
+      <category domain="https://310mc.github.io/tl/categories/Enstars/Aira/">Aira</category>
+      
+      
+      <category domain="https://310mc.github.io/tl/tags/Idol-Story/">Idol Story</category>
+      
+      
+      <comments>https://310mc.github.io/tl/do_the_norm/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
